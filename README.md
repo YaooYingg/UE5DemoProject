@@ -52,3 +52,4 @@
      ![SetupARFaceName](https://user-images.githubusercontent.com/86640695/167246842-12a0cbc7-89fc-4e58-aa05-752ce5d4ef4c.gif)
 
 11.点击Play 运行即可查看全身+面捕驱动效果 
+     ![Play](https://user-images.githubusercontent.com/86640695/167331440-91d2fe9a-0230-4832-b99b-37e667075e36.gif)
